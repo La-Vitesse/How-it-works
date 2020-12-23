@@ -1,5 +1,6 @@
 # How-it-works
 Explains the mechanism behind La Vitesse
+
 La-Vyf (La Vitesse Yield Farming) Protocol
 La-Vyf Protocol is designed as a special uncollateralised loan contract that allows the borrowing of an asset, as long as the borrowed amount (and a fee) is returned before the end of the transaction. The essence of this technology is speed.
 This Protocol is a developers oriented feature that allow to borrow any available amount of assets without collateral. For this to happen, the borrowing trader is required to build a contract that will request a La-Vyf contract through the La-Vyf Protocol, take the required actions and pay back the loan + interest and fees in the same transaction.
